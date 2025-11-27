@@ -21,7 +21,7 @@
 
 **Deelnemer Naam:** `Andres Van Reepingen`  
 **Workshop Datum:** `27/11/2025`  
-**Doel:** `Deployen`  
+**Doel:** `Deployen en CI/CD leren`  
 **GitHub Gebruikersnaam:** `andres-vr`  
 **Verwachte Site URL:** `https://andres-vr.github.io/devops-workshop-vitepress/`
 
